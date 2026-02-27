@@ -1,118 +1,134 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,25:0d1117,50:161b22,75:1a1e2e,100:0a0a0a&height=300&section=header&text=Nilesh%20Jadhav&fontSize=70&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Language%20Designer%20%7C%20Systems%20Thinker&descSize=20&descAlignY=55&descColor=8b949e)](https://github.com/codebynilesh)
-
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=codebynilesh&label=PROFILE%20VIEWS&color=1f6feb&style=for-the-badge)](https://github.com/codebynilesh)
-[![Followers](https://img.shields.io/github/followers/codebynilesh?style=for-the-badge&logo=github&label=FOLLOWERS&color=1f6feb&labelColor=0d1117)](https://github.com/codebynilesh)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-codebynilesh-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117)](https://codebynilesh.pythonanywhere.com/)
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1b27,50:58a6ff,100:1a1b27&height=200&text=NILESH%20JADHAV&fontSize=60&fontColor=ffffff&animation=twinkling&stroke=58a6ff&strokeWidth=1" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=I+don't+just+write+code.;I+build+languages%2C+gateways%2C+and+platforms.;Systems+that+think.+Code+that+scales." alt="Typing SVG" />
+<a href="https://www.linkedin.com/in/codebynilesh/"><img src="https://img.shields.io/badge/-%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.youtube.com/@codebynilesh"><img src="https://img.shields.io/badge/-%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://www.instagram.com/codebynilesh"><img src="https://img.shields.io/badge/-%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="mailto:nileshjadhav.pro@gmail.com"><img src="https://img.shields.io/badge/-%20Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://codebynilesh.pythonanywhere.com/"><img src="https://img.shields.io/badge/-%20Portfolio-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=50&lines=Backend+Developer;Systems+Engineer;Building+Scalable+Infrastructure" alt="Typing SVG" />
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=CodeByNilesh&color=58a6ff&style=flat-square&label=visitors)](https://github.com/CodeByNilesh)
 
 </div>
+
+<br/>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=CodeByNilesh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=percentile" width="400" />
+
+### About
+
+Backend developer and systems engineer who builds
+infrastructure-level software — API gateways, social
+platforms, skill-exchange networks, and even a compiled
+programming language.
+
+I focus on **performance**, **clean architecture**, and
+**systems that scale**.
+
+**→** Writing backend systems in **Python**, **Java**, **C++**
+
+**→** Designing APIs, distributed services, scalable platforms
+
+**→** Currently exploring compiler design & VM internals
+
+<br clear="both" />
 
 ---
 
-<table>
-<tr>
-<td width="55%" valign="top">
-
-### 🧬 `whoami`
-
-```python
-class Nilesh:
-    role      = "Backend Engineer"
-    focus     = ["Systems Programming", "API Design",
-                 "Distributed Systems", "Language Design"]
-    languages = ["Python", "Go", "C++", "JavaScript"]
-    building  = "Sky Programming Language 🌤️"
-    philosophy = "Build tools, not just apps."
-```
-
-I design and build systems from the ground up — from a **compiled programming language** to **API gateways** to **peer-to-peer platforms**. I care about performance, clean architecture, and code that outlives the hype cycle.
-
-**Currently:** Designing **Sky** — a compiled language for secure API development.
-
-</td>
-<td width="45%" valign="top">
-
-### ⚡ Quick Stats
+### Tech Stack
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=codebynilesh&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&count_private=true" width="100%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=codebynilesh&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff6e40&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681" width="100%" />
-</div>
-
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<br><sub><b>Python</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+<br><sub><b>Java</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+<br><sub><b>C++</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
+<br><sub><b>Go</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+<br><sub><b>JavaScript</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
+<br><sub><b>Django</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
+<br><sub><b>Spring</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+<br><sub><b>PostgreSQL</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+<br><sub><b>MySQL</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+<br><sub><b>Docker</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+<br><sub><b>Linux</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" />
+<br><sub><b>Nginx</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br><sub><b>Git</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+<br><sub><b>Postman</b></sub>
 </td>
 </tr>
 </table>
 
----
-
-### 🛠️ Tech Arsenal
-
-<div align="center">
-
-| Domain | Stack |
-|:---|:---|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB) ![Go](https://img.shields.io/badge/Go-0d1117?style=flat-square&logo=go&logoColor=00ADD8) ![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=00599C) ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E) |
-| **Backend** | ![Django](https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=092E20) ![Go](https://img.shields.io/badge/Go%20Stdlib-0d1117?style=flat-square&logo=go&logoColor=00ADD8) ![REST](https://img.shields.io/badge/REST%20APIs-0d1117?style=flat-square&logo=fastapi&logoColor=009688) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1) |
-| **Infrastructure** | ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED) ![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624) ![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=flat-square&logo=nginx&logoColor=009639) ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032) |
-| **Frontend** | ![HTML](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26) ![CSS](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6) ![Bootstrap](https://img.shields.io/badge/Bootstrap-0d1117?style=flat-square&logo=bootstrap&logoColor=7952B3) ![AJAX](https://img.shields.io/badge/AJAX-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E) |
-
 </div>
 
 ---
 
-### 🏗️ Featured Projects
+### Featured Projects
 
 <div align="center">
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🌤️ Sky Programming Language</h3>
+<h3 align="center">
+<img src="https://img.shields.io/badge/⚡-API%20Gateway-00ADD8?style=for-the-badge&labelColor=0d1117" />
+</h3>
 
 <div align="center">
 
-[![Sky](https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-ff6e40?style=for-the-badge&labelColor=0d1117)](https://github.com/codebynilesh)
-[![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://github.com/codebynilesh)
-[![Compiler](https://img.shields.io/badge/Compiler-VM-58a6ff?style=flat-square&labelColor=0d1117)](https://github.com/codebynilesh)
-
-</div>
-
-**A compiled programming language for fast, secure API development.**
-
-> *C++ performance. Python simplicity. Security built-in.*
-
-```
-server api on 3000 {
-    route GET "/hello" {
-        respond 200 json({
-            "msg": "Hello from Sky!"
-        })
-    }
-}
-```
-
-`Bytecode VM` · `Built-in Security` · `Native HTTP` · `Async I/O` · `Type Inference`
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">⚡ API Gateway in Go</h3>
-
-<div align="center">
-
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://github.com/codebynilesh)
-[![Performance](https://img.shields.io/badge/High-Performance-58a6ff?style=flat-square&labelColor=0d1117)](https://github.com/codebynilesh)
-
-</div>
-
-**Production-grade API gateway. Zero dependencies. Pure Go.**
+**Production-grade API Gateway in pure Go**
 
 ```
 Clients ──→ Gateway :8080
@@ -121,152 +137,156 @@ Clients ──→ Gateway :8080
               └──→ Service C :9003
 ```
 
-`Rate Limiting` · `Circuit Breaker` · `Retries` · `Timeouts` · `Metrics` · `Hot Reload` · `Admin API` · `Structured Logs`
+<img src="https://img.shields.io/badge/Rate%20Limiting-161b22?style=flat-square" />
+<img src="https://img.shields.io/badge/Circuit%20Breaker-161b22?style=flat-square" />
+<img src="https://img.shields.io/badge/Hot%20Reload-161b22?style=flat-square" />
+<img src="https://img.shields.io/badge/Admin%20API-161b22?style=flat-square" />
+<img src="https://img.shields.io/badge/Metrics-161b22?style=flat-square" />
+<img src="https://img.shields.io/badge/Retries-161b22?style=flat-square" />
+
+<br/><br/>
+
+[![Code](https://img.shields.io/badge/View%20Source-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeByNilesh)
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">
+<img src="https://img.shields.io/badge/🌐-SocialXWeb-092E20?style=for-the-badge&labelColor=0d1117" />
+</h3>
+
+<div align="center">
+
+**Full-stack social media platform**
+
+Real-time AJAX interactions · OTP auth
+Dark mode · 100MB media · Privacy controls
+Responsive across all devices
+
+<br/>
+
+<img src="https://img.shields.io/badge/Django-161b22?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/AJAX-161b22?style=flat-square" />
+<img src="https://img.shields.io/badge/SMTP-161b22?style=flat-square" />
+<img src="https://img.shields.io/badge/Bootstrap-161b22?style=flat-square&logo=bootstrap&logoColor=white" />
+
+<br/><br/>
+
+[![Live](https://img.shields.io/badge/🔴%20Live%20Demo-ff6e40?style=for-the-badge)](https://socialxweb.pythonanywhere.com/)
+[![Code](https://img.shields.io/badge/Source-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeByNilesh)
+
+</div>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🔄 EliteSwap</h3>
+<h3 align="center">
+<img src="https://img.shields.io/badge/🔄-EliteSwap-ff6e40?style=for-the-badge&labelColor=0d1117" />
+</h3>
 
 <div align="center">
 
-[![Platform](https://img.shields.io/badge/Skill-Exchange-ff6e40?style=flat-square&labelColor=0d1117)](https://github.com/codebynilesh)
-[![Scalable](https://img.shields.io/badge/P2P-Scalable-58a6ff?style=flat-square&labelColor=0d1117)](https://github.com/codebynilesh)
+**Peer-to-peer skill exchange platform**
+
+Teach what you know → Earn EliteCoins
+Spend EliteCoins → Learn what you want
+
+> *No money. Just skills.*
+
+<img src="https://img.shields.io/badge/P2P-161b22?style=flat-square" />
+<img src="https://img.shields.io/badge/EliteCoins-161b22?style=flat-square" />
+<img src="https://img.shields.io/badge/Skill%20Matching-161b22?style=flat-square" />
+<img src="https://img.shields.io/badge/Scalable-161b22?style=flat-square" />
+
+<br/><br/>
+
+[![Code](https://img.shields.io/badge/View%20Source-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeByNilesh)
 
 </div>
-
-**Learn anything by teaching what you know — no money, just skills.**
-
-A peer-to-peer skill exchange platform where users **teach to earn EliteCoins** and **spend them to learn** from others.
-
-> *Trade knowledge, not currency.*
-
-`Peer-to-Peer` · `EliteCoins Economy` · `Skill Matching` · `Scalable Architecture`
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🌐 SocialXWeb</h3>
+<h3 align="center">
+<img src="https://img.shields.io/badge/🌤️-Sky%20Language-58a6ff?style=for-the-badge&labelColor=0d1117" />
+</h3>
 
 <div align="center">
 
-[![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)](https://github.com/codebynilesh)
-[![Full Stack](https://img.shields.io/badge/Full-Stack-58a6ff?style=flat-square&labelColor=0d1117)](https://github.com/codebynilesh)
+**Compiled language for secure API development**
+
+```
+server api on 3000 {
+  route GET "/hello" {
+    respond 200 json({
+      "msg": "Hello from Sky!"
+    })
+  }
+}
+```
+
+<img src="https://img.shields.io/badge/Bytecode%20VM-161b22?style=flat-square" />
+<img src="https://img.shields.io/badge/Async%20I/O-161b22?style=flat-square" />
+<img src="https://img.shields.io/badge/Built--in%20Security-161b22?style=flat-square" />
+
+<br/><br/>
+
+[![Release](https://img.shields.io/badge/⬇%20Download%20v1.0-58a6ff?style=for-the-badge)](https://github.com/CodeByNilesh/sky-lang/releases/tag/v1.0.0)
+[![Code](https://img.shields.io/badge/Source-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeByNilesh/sky-lang)
 
 </div>
-
-**Full-featured social media platform. Built from scratch.**
-
-A complete social network with real-time interactions, secure auth, media sharing, and privacy controls.
-
-`AJAX Real-time` · `Email OTP` · `Dark Mode` · `100MB Media` · `Private Accounts` · `Responsive`
 
 </td>
 </tr>
 </table>
-
 </div>
 
 ---
 
-### 📊 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codebynilesh&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6e40&area=true&area_color=1f6feb20&hide_border=true&custom_title=Contribution%20Timeline" width="100%" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebynilesh&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="45%" />
-</div>
-
----
-
-### 🧭 What Drives Me
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│   "I don't build to follow trends.                              │
-│    I build to understand how things work —                      │
-│    then I build them better."                                   │
-│                                                                 │
-│   → Designed a programming language from scratch                │
-│   → Built an API gateway with zero dependencies                 │
-│   → Created platforms that solve real problems                  │
-│                                                                 │
-│   I think in systems. I ship in code.                           │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
----
-
-### 📬 Let's Connect
+### Activity
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-nileshjadhav.pro-ff6e40?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:nileshjadhav.pro@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-codebynilesh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/codebynilesh/)
-[![YouTube](https://img.shields.io/badge/YouTube-codebynilesh-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117)](https://www.youtube.com/@codebynilesh)
-[![Instagram](https://img.shields.io/badge/Instagram-codebynilesh-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://www.instagram.com/codebynilesh)
-[![Portfolio](https://img.shields.io/badge/Portfolio-codebynilesh-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117)](https://codebynilesh.pythonanywhere.com/)
-
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeByNilesh&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6e40&area=true&area_color=58a6ff20&hide_border=true&custom_title=" width="100%" />
 
 <br/>
 
-> [!NOTE]
-> **Open to collaborations on systems programming, open source, and anything that pushes boundaries.**
-> If you're building something ambitious — let's talk.
-
-<br/>
-
-<div align="center">
-
-```
- ██████╗ ██████╗ ██████╗ ███████╗    ██████╗ ██╗   ██╗
-██╔════╝██╔═══██╗██╔══██╗██╔════╝    ██╔══██╗╚██╗ ██╔╝
-██║     ██║   ██║██║  ██║█████╗      ██████╔╝ ╚████╔╝ 
-██║     ██║   ██║██║  ██║██╔══╝      ██╔══██╗  ╚██╔╝  
-╚██████╗╚██████╔╝██████╔╝███████╗    ██████╔╝   ██║   
- ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝    ╚═════╝    ╚═╝   
-███╗   ██╗██╗██╗     ███████╗███████╗██╗  ██╗
-████╗  ██║██║██║     ██╔════╝██╔════╝██║  ██║
-██╔██╗ ██║██║██║     █████╗  ███████╗███████║
-██║╚██╗██║██║██║     ██╔══╝  ╚════██║██╔══██║
-██║ ╚████║██║███████╗███████╗███████║██║  ██║
-╚═╝  ╚═══╝╚═╝╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝
-```
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByNilesh&theme=tokyonight&hide_border=true&background=0d1117&stroke=161b22&ring=58a6ff&fire=ff6e40&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByNilesh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" width="40%" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,25:0d1117,50:161b22,75:1a1e2e,100:0a0a0a&height=120&section=footer" />
-```
+---
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=CodeByNilesh&theme=algolia&no-bg=true&no-frame=true&column=7&margin-w=10" width="100%" />
+
+</div>
 
 ---
 
-## Key Design Decisions
+<div align="center">
 
-**🎨 Visual Identity:**
-- Dark GitHub-native color palette (`#0d1117`, `#58a6ff`, `#ff6e40`) — looks stunning in both light and dark mode
-- Consistent `for-the-badge` styling across all badges
-- ASCII art branding at the footer for memorability
+<a href="https://www.linkedin.com/in/codebynilesh/"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/@codebynilesh"><img src="https://skillicons.dev/icons?i=youtube" width="40" /></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/codebynilesh"><img src="https://skillicons.dev/icons?i=instagram" width="40" /></a>&nbsp;&nbsp;
+<a href="mailto:nileshjadhav.pro@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>&nbsp;&nbsp;
+<a href="https://github.com/CodeByNilesh"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
 
-**📐 Layout Strategy:**
-- Side-by-side table for "About" + "Stats" — immediate visual impact
-- 2×2 project grid — scannable, not overwhelming
-- Each project has a distinct identity (emoji + color accent)
+<br/><br/>
 
-**🧠 Content Strategy:**
-- The `whoami` Python class is a conversation starter — shows personality
-- Sky Language gets the code sample — it's your most unique project
-- The ASCII architecture diagram for the Gateway shows systems thinking
-- The philosophy section differentiates you from every "I use React" profile
+> **Building systems that scale. Open to collaborate.**
 
-**⚡ What makes it stand out:**
-- No generic "I'm a passionate developer" intro
-- The typing SVG has **bold, confident lines** — not buzzwords
-- Projects are described by what they **do**, not what framework they use
-- The callout box at the end is a clear CTA without being desperate
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:58a6ff,100:1a1b27&height=100&section=footer" width="100%" />
+
+</div>
+
+
