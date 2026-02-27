@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1b27,50:58a6ff,100:1a1b27&height=200&text=NILESH%20JADHAV&fontSize=60&fontColor=ffffff&animation=twinkling&stroke=58a6ff&strokeWidth=1" width="100%" />
@@ -302,4 +301,3 @@ server api on 3000 {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:58a6ff,100:1a1b27&height=100&section=footer" width="100%" />
 
 </div>
-EOF
