@@ -22,46 +22,17 @@
 
 ---
 
-<table>
-<tr>
-<td valign="top" width="55%">
-
-<h3>⚙️ About</h3>
-
-> **Backend Developer & Systems Engineer** building
-> infrastructure from the ground up — API gateways,
-> social platforms, and scalable backend systems.
->
-> *Performance first. Clean architecture always. Scale by design.*
-
-<table>
-<tr><td>
-
-`Languages` → Python · Java · C++ · Go
-
-`Backend` → Django · Spring · REST APIs
-
-`Databases` → PostgreSQL · MySQL
-
-`Focus` → Distributed Systems · API Design
-
-`Exploring` → Compiler Design · VM Internals
-
-</td></tr>
-</table>
-
-</td>
-<td valign="top" width="45%">
+<h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=CodeByNilesh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=percentile&include_all_commits=true" width="100%" alt="Stats" />
-<br/>
-<img src="https://streak-stats.demolab.com/?user=CodeByNilesh&theme=tokyonight&hide_border=true&background=00000000&stroke=161b22&ring=58a6ff&fire=ff6e40&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681" width="100%" alt="Streak" />
+  <!-- Switched to Summary Cards Service for stability -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeByNilesh&theme=tokyonight" width="100%" alt="Profile Details" />
 </div>
-
-</td>
-</tr>
-</table>
+<br/>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodeByNilesh&theme=tokyonight" width="48%" alt="Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodeByNilesh&theme=tokyonight" width="48%" alt="Stats" />
+</div>
 
 ---
 
@@ -257,29 +228,6 @@ server api on 3000 {
 </td>
 </tr>
 </table>
-</div>
-
----
-
-<h3 align="center">📊 Activity</h3>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeByNilesh&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6e40&area=true&area_color=58a6ff20&hide_border=true" width="100%" alt="Activity Graph" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=CodeByNilesh&theme=tokyonight&hide_border=true&background=0d1117&stroke=161b22&ring=58a6ff&fire=ff6e40&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681" width="48%" alt="Streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByNilesh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" width="40%" alt="Languages" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=CodeByNilesh&theme=algolia&no-bg=true&no-frame=true&column=7&margin-w=10" width="100%" alt="Trophies" />
-
 </div>
 
 ---
