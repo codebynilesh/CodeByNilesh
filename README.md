@@ -22,7 +22,7 @@
 
 <br/>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=CodeByNilesh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=percentile" width="400" />
+<img align="right" src="https://github-readme-stats-rickstaa.vercel.app/api?username=CodeByNilesh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=percentile" width="400" />
 
 ### About
 
