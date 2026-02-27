@@ -37,7 +37,7 @@ I focus on **performance**, **clean architecture**, and
 
 **→** Designing APIs, distributed services, scalable platforms
 
-**→** Currently exploring compiler design & VM internals
+**→** Currently exploring system design & AI
 
 <br clear="both" />
 
