@@ -145,7 +145,7 @@ Clients ──→ Gateway :8080
 
 <br/><br/>
 
-[![Code](https://img.shields.io/badge/View%20Source-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeByNilesh)
+[![Code](https://img.shields.io/badge/View%20Source-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeByNilesh/api-gateway)
 
 </div>
 
@@ -175,7 +175,6 @@ Responsive across all devices
 <br/><br/>
 
 [![Live](https://img.shields.io/badge/🔴%20Live%20Demo-ff6e40?style=for-the-badge)](https://socialxweb.pythonanywhere.com/)
-[![Code](https://img.shields.io/badge/Source-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeByNilesh)
 
 </div>
 
@@ -204,7 +203,7 @@ Spend EliteCoins → Learn what you want
 
 <br/><br/>
 
-[![Code](https://img.shields.io/badge/View%20Source-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeByNilesh)
+[![Code](https://img.shields.io/badge/View%20Source-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeByNilesh/EliteSwap)
 
 </div>
 
@@ -236,7 +235,6 @@ server api on 3000 {
 <br/><br/>
 
 [![Release](https://img.shields.io/badge/⬇%20Download%20v1.0-58a6ff?style=for-the-badge)](https://github.com/CodeByNilesh/sky-lang/releases/tag/v1.0.0)
-[![Code](https://img.shields.io/badge/Source-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeByNilesh/sky-lang)
 
 </div>
 
@@ -262,7 +260,7 @@ server api on 3000 {
 <a href="https://www.linkedin.com/in/codebynilesh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" /></a>&nbsp;
 <a href="https://www.youtube.com/@codebynilesh"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28" /></a>&nbsp;
 <a href="https://www.instagram.com/codebynilesh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" /></a>&nbsp;
-<a href="mailto:nileshjadhav.pro@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" /></a>&nbsp;
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=nileshjadhav.pro@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" /></a>&nbsp;
 <a href="https://github.com/CodeByNilesh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28" /></a>
 
 <br/><br/>
