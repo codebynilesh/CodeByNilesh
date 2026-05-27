@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1b27,50:58a6ff,100:1a1b27&height=200&text=NILESH%20JADHAV&fontSize=60&fontColor=ffffff&animation=twinkling&stroke=58a6ff&strokeWidth=1" width="100%" />
 
-<br/>
+<!-- <br/>
 
 <a href="https://www.linkedin.com/in/codebynilesh/"><img src="https://img.shields.io/badge/-%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.youtube.com/@codebynilesh"><img src="https://img.shields.io/badge/-%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
@@ -10,7 +10,7 @@
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nileshjadhav.pro@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-%20Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://codebynilesh.pythonanywhere.com/"><img src="https://img.shields.io/badge/-%20Portfolio-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
-<br/><br/>
+<br/><br/> -->
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=50&lines=Backend+Developer;Systems+Engineer;Building+Scalable+Infrastructure" alt="Typing SVG" />
 
