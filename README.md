@@ -1,19 +1,3 @@
-### 🔭 Currently
-
-- Building backend systems with **Python · Django · REST APIs**
-- Sharpening **Java · DSA · System Design** fundamentals
-- Open to **internships, full-time roles, freelance work**
-
-### 🛠 Tech Stack
-
-**Languages:** Python · Java · JavaScript · SQL · C++  
-**Backend:** Django · DRF · Spring Boot · FastAPI  
-**Frontend:** React · Bootstrap · Tailwind CSS  
-**Database:** PostgreSQL · MySQL · MongoDB · SQLite · Redis  
-**DevOps:** Docker · Render · Vercel · Cloudinary · Git  
-**AI/ML:** Pandas · NumPy · Scikit-learn · SBERT · FAISS
-
-
 ### 📊 GitHub Stats
 
 <p align="center">
