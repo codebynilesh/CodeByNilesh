@@ -1,11 +1,3 @@
-<h1 align="center">Hi, I'm Nilesh Jadhav 👋</h1>
-
-<p align="center">
-  <em>Building backend systems the way they're meant to be built — reliable, scalable, and clean.</em>
-</p>
-
----
-
 ### 🔭 Currently
 
 - Building backend systems with **Python · Django · REST APIs**
