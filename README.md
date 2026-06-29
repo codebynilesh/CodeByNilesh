@@ -10,7 +10,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codebynilesh&theme=tokyonight&hide_border=true" alt="Streak" />
 </p>
 
-
 ### 📫 Let's Connect
 
 Looking for interesting projects to collaborate on?
@@ -25,5 +24,5 @@ Looking for interesting projects to collaborate on?
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CodeByNilesh&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=codebynilesh&style=flat-square&color=blue" alt="Profile Views" />
 </p>
